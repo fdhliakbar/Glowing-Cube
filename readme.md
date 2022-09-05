@@ -66,6 +66,5 @@ transform: translateX(-1em) rotateY(90deg); }
 
 ### Please Follow :(
 
-<p align="center">
 ![mioflu](https://user-images.githubusercontent.com/104522615/188391292-6509c910-be80-4d1e-b7c8-9b7c63f95b5a.gif)
-</p>
+
